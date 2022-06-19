@@ -1,6 +1,6 @@
 # Github Followers 
 
-This based on Sean Allen's take home project and the app gets the user-id from the user and displays the details of that user.
+based on Sean Allen's take home project and the app gets the user-id from the user and displays the details of that user.
 
 UIKit
 
