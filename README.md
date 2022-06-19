@@ -1,4 +1,4 @@
-# Github Followers
+# Github Followers (sean allen)
 
 This app gets the user-id from the user and displays the details of that user.
 
