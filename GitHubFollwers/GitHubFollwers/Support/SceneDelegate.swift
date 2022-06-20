@@ -47,7 +47,7 @@ class SceneDelegate: UIResponder, UIWindowSceneDelegate {
            let tabBarAppearance: UITabBarAppearance = UITabBarAppearance()
            tabBarAppearance.configureWithDefaultBackground()
            if #available(iOS 15.0, *) {
-              UITabBar.appearance().scrollEdgeAppearance = tabBarAppearance
+               UITabBar.appearance().scrollEdgeAppearance = tabBarAppearance
            }
         }
         tabbar.viewControllers = [createSearchNC(), createFavoriteNC()]
